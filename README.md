@@ -9,7 +9,7 @@ User-friendly interface for a smooth and engaging user experience
 
 ### Installation
 To set up and run HireHub locally, follow these steps:
-Clone the repository: git clone https://github.com/your-username/hirehub.git  
+Clone the repository: git clone  
 Install the required dependencies: pip install -r requirements.txt  
 Configure the database connection in config.py  
 Run the application: python app.py  
