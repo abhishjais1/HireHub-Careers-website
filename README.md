@@ -1,1 +1,2 @@
-# Careers-website2
+# HireHub Careers website
+Welcome to HireHub, a dynamic career platform built using Flask, MySQL, and Render. This project revolutionizes the job search and application process by providing a user-friendly interface for candidates to explore job openings and submit applications seamlessly. Employers benefit from efficient application management and advanced features like form validation, email notifications, and API integration. Experience a modern and streamlined approach to connecting talent with opportunities on HireHub.
